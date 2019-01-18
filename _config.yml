@@ -1,2 +1,2 @@
 theme: jekyll-theme-cayman
-include: [.well-known, brave-rewards-verification.txt, index.html]
+include: [.well-known, brave-rewards-verification.txt]
