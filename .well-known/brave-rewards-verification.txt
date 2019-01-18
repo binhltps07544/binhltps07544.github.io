@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: binhltps07544.github.io
+Token: 556a6520a159b8432b7ddf5052ee48051e2596036514a0886fd68fc8f1e080a3
